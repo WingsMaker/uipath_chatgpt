@@ -20,6 +20,13 @@ Here is the workflow of the library, the main language in used for code is VB ( 
 
 ![chatgpt_main](https://user-images.githubusercontent.com/32192638/214519029-2c9aa47c-f435-4ac5-ad8a-88d055c0f19d.jpg)
 
+What does UiPath calls the ChatGPT api in coding aspect ?
+
+It takes payload and headers parameter.
+
+![image](https://user-images.githubusercontent.com/32192638/214522546-59856601-75d9-413b-9b72-4c5945a2cb2d.png)
+
+
 What other files do I need to create?
 
 Create an excel file called "bot_config.xlsx" with API key stored inside. The main workflow calls Excel library to get the API key.
