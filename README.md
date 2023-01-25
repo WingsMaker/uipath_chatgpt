@@ -16,7 +16,7 @@ Where to get this library ? Just download from this github page.
 https://github.com/WingsMaker/uipath_chatgpt/blob/main/chatgpt_uipath.xaml
 
 
-Here is the workflow of the library
+Here is the workflow of the library, the main language in used for code is VB ( visual basic ).
 
 ![chatgpt_main](https://user-images.githubusercontent.com/32192638/214519029-2c9aa47c-f435-4ac5-ad8a-88d055c0f19d.jpg)
 
