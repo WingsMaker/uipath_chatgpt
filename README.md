@@ -23,3 +23,8 @@ Here is the workflow of the library
 What other files do I need to create?
 
 Create an excel file called "bot_config.xlsx" with API key stored inside. The main workflow calls Excel library to get the API key.
+
+I am a C# developer, not familiar with VB language. Any similar post for this ?
+See  
+https://forum.uipath.com/t/how-to-integrate-chatgpt-in-uipath-using-the-http-request-activity/507534
+
