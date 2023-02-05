@@ -6,6 +6,10 @@ Simply call this workflow file with parameters
 
 ![image](https://user-images.githubusercontent.com/32192638/214518179-744ef543-9637-4c14-abdd-ce54f45aa70c.png)
 
+In the strAPIKey value textbox, you can get the api key from OpenAI account , see https://beta.openai.com/account/api-keys
+
+It should looks this : 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   // this is an expired key
+
 
 Below demo shows that the main workflow in UiPath is going to be very simple due to this.
 
@@ -35,3 +39,7 @@ I am a C# developer, not familiar with VB language. Any similar post for this ?
 See  
 https://forum.uipath.com/t/how-to-integrate-chatgpt-in-uipath-using-the-http-request-activity/507534
 
+
+Can I skip the excel file and just hardcode the api key ?
+
+Yes, assigned the API key string value into the parameter strAPIKey directly.
