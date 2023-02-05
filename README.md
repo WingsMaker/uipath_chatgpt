@@ -8,7 +8,7 @@ Simply call this workflow file with parameters
 
 In the strAPIKey value textbox, you can get the api key from OpenAI account , see https://beta.openai.com/account/api-keys
 
-It should looks this : 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   // this is an expired key
+It should looks this : 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     ( this is an expired key )
 
 
 Below demo shows that the main workflow in UiPath is going to be very simple due to this.
